@@ -36,22 +36,23 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/anastasiosPou/devChallenges404/blob/main/out/resources/images/screenshot1.png)
+
+[screenshot](https://github.com/anastasiosPou/devChallenges404/blob/main/out/resources/images/screenshot2.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+You may see this project live at: https://notfound-ae2fc.web.app/
+- What have you learned/improved? I've learned how to use SASS as I hadn't done any project before using it.
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [SASS](https://sass-lang.com/)
+- [HTML] (https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Features
 
@@ -70,6 +71,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [your-website.com](https://anastasiospou.github.io)
+- GitHub [@your-username](https://github.com/anastasiosPou)
+- Twitter [@your-twitter](https://twitter.com/anastasiosPou)
