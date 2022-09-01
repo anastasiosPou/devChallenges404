@@ -71,6 +71,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://anastasiospou.github.io)
-- GitHub [@your-username](https://github.com/anastasiosPou)
-- Twitter [@your-twitter](https://twitter.com/anastasiosPou)
+- Website [anastasiospou.github.io](https://anastasiospou.github.io)
+- GitHub [anastasiosPou](https://github.com/anastasiosPou)
+- Twitter [@anastasiosPou](https://twitter.com/anastasiosPou)
